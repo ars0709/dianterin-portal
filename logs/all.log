@@ -1,0 +1,612 @@
+{"level":"info","message":"Connected to DB!","timestamp":"2015-05-02T11:49:32.059Z"}
+{"level":"info","message":"New user - myapi:abc1234","timestamp":"2015-05-02T11:49:32.178Z"}
+{"level":"info","message":"New client - android:SomeRandomCharsAndNumbers","timestamp":"2015-05-02T11:49:32.282Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-05-02T11:49:43.744Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-05-02T11:49:43.763Z"}
+{"level":"info","message":"New article created with id: 5544bad094017d6f204d6ed2","timestamp":"2015-05-02T11:53:52.419Z"}
+{"level":"info","message":"New article created with id: 5544bb6494017d6f204d6ed5","timestamp":"2015-05-02T11:56:20.588Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-05-02T16:11:02.068Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-05-02T16:11:02.240Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-05-02T16:16:44.573Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-05-02T16:16:44.591Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-05-02T16:51:24.982Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-05-02T16:51:25.000Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-05-02T17:13:36.960Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-05-02T17:13:36.988Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-05-02T17:33:55.096Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-05-02T17:33:55.115Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-05-02T17:42:40.708Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-05-02T17:42:40.726Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-05-02T17:43:04.929Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-05-02T17:43:04.947Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-05-02T17:48:31.297Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-05-02T17:48:31.315Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-05-02T17:52:13.081Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-05-02T17:52:13.148Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-05-02T19:43:23.922Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-05-02T19:43:24.076Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-05-02T19:47:10.575Z"}
+{"message":"User validation failed","name":"ValidationError","errors":{"fullname":{"properties":{"type":"required","message":"Path `{PATH}` is required.","path":"fullname"},"message":"Path `fullname` is required.","name":"ValidatorError","kind":"required","path":"fullname"},"email":{"properties":{"type":"required","message":"Path `{PATH}` is required.","path":"email"},"message":"Path `email` is required.","name":"ValidatorError","kind":"required","path":"email"}},"level":"error","timestamp":"2015-05-02T19:47:10.614Z"}
+{"level":"info","message":"New client - android:SomeRandomCharsAndNumbers","timestamp":"2015-05-02T19:47:11.083Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-05-02T19:52:52.506Z"}
+{"message":"User validation failed","name":"ValidationError","errors":{"fullname":{"properties":{"type":"required","message":"Path `{PATH}` is required.","path":"fullname"},"message":"Path `fullname` is required.","name":"ValidatorError","kind":"required","path":"fullname"},"email":{"properties":{"type":"required","message":"Path `{PATH}` is required.","path":"email"},"message":"Path `email` is required.","name":"ValidatorError","kind":"required","path":"email"}},"level":"error","timestamp":"2015-05-02T19:52:52.548Z"}
+{"level":"info","message":"New client - android:SomeRandomCharsAndNumbers","timestamp":"2015-05-02T19:52:52.798Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-05-02T19:53:53.908Z"}
+{"level":"info","message":"New user - bonkzero404:janitrapanji","timestamp":"2015-05-02T19:53:53.941Z"}
+{"level":"info","message":"New client - android:SomeRandomCharsAndNumbers","timestamp":"2015-05-02T19:53:53.948Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-05-02T19:55:04.511Z"}
+{"level":"info","message":"New user - bonkzero404:janitrapanji","timestamp":"2015-05-02T19:55:04.570Z"}
+{"level":"info","message":"New client - blackxperience:r3dbu22Xp3r13nc3","timestamp":"2015-05-02T19:55:04.572Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-05-02T19:55:59.772Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-05-02T19:55:59.836Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-05-02T19:59:13.535Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-05-02T19:59:13.625Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-05-02T21:46:45.219Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-05-02T21:46:45.519Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-05-02T21:51:11.771Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-05-02T21:51:11.845Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-05-02T21:51:54.401Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-05-02T21:51:54.476Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-06-26T19:28:32.051Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-06-26T19:28:32.507Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-06-26T19:38:36.247Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-06-26T19:38:36.272Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-06-26T19:39:35.858Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-06-26T19:39:35.883Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-06-26T19:39:39.336Z"}
+{"level":"info","message":"New user - bonkzero404:janitrapanji","timestamp":"2015-06-26T19:39:39.711Z"}
+{"level":"info","message":"New client - blackxperience:r3dbu22Xp3r13nc3","timestamp":"2015-06-26T19:39:39.720Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-06-26T19:41:40.013Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-06-26T19:41:40.045Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-06-26T20:08:37.996Z"}
+{"level":"info","message":"New user - polycore:polyredauth","timestamp":"2015-06-26T20:08:39.006Z"}
+{"level":"info","message":"New client - polycore:rbzp0lycor3L3ns3s2015","timestamp":"2015-06-26T20:08:39.134Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-06-26T20:09:19.446Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-06-26T20:09:19.478Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-06-26T20:42:51.782Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-06-26T20:42:51.806Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-06-26T20:54:58.291Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-06-26T20:54:58.314Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-06-26T20:57:38.951Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-06-26T20:57:38.974Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-06-27T17:29:30.503Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-06-27T17:29:31.326Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-08-10T08:23:46.762Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-08-10T08:23:46.794Z"}
+{"level":"error","message":"Connection error: auth failed","timestamp":"2015-09-04T06:35:11.435Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-04T06:37:11.360Z"}
+{"level":"info","message":"New user - janitra:janitrapanji","timestamp":"2015-09-04T06:37:11.499Z"}
+{"level":"info","message":"New client - BX Connect:bl4KxP3r13nc3d07c0m","timestamp":"2015-09-04T06:37:11.501Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-04T06:39:47.610Z"}
+{"level":"info","message":"New user - janitra:janitrapanji","timestamp":"2015-09-04T06:39:47.670Z"}
+{"level":"info","message":"New client - BX Connect:bl4KxP3r13nc3d07c0m","timestamp":"2015-09-04T06:39:47.672Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-06T13:14:47.839Z"}
+{"level":"info","message":"New user - bonkzero404@gmail.com:janitrapanji","timestamp":"2015-09-06T13:14:48.230Z"}
+{"level":"info","message":"New client - Dianterin.com:d14n73r1Nd0nk","timestamp":"2015-09-06T13:14:48.232Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-06T13:21:46.338Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-06T13:21:46.368Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-06T14:44:12.560Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-06T14:44:12.597Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-06T16:10:27.009Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-06T16:10:27.075Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-06T16:47:24.073Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-06T16:47:24.158Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-06T16:53:01.994Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-06T16:53:02.037Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-06T16:53:23.859Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-06T16:53:23.888Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-06T16:54:46.520Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-06T16:54:46.551Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-06T18:12:54.013Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-06T18:12:54.043Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-08T20:38:08.784Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-08T20:38:08.939Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-08T20:55:17.542Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-08T20:55:17.576Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-08T20:58:05.555Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-08T20:58:05.583Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-08T20:58:50.292Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-08T20:58:50.322Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-08T21:01:42.101Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-08T21:01:42.131Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-08T21:08:11.075Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-08T21:08:11.107Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-08T21:08:34.018Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-08T21:08:34.047Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-08T21:12:21.198Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-08T21:12:21.228Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-08T21:12:55.921Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-08T21:12:55.952Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T18:39:58.053Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T18:39:58.086Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T18:54:43.366Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T18:54:43.395Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T19:01:51.914Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T19:01:52.010Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T19:04:37.580Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T19:04:37.619Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T19:05:35.753Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T19:05:35.804Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T19:06:46.601Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T19:06:46.630Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T19:07:10.613Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T19:07:10.644Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T19:10:42.702Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T19:10:42.746Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T19:15:35.448Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T19:15:35.477Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T19:16:35.469Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T19:16:35.498Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T19:17:39.332Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T19:17:39.362Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T19:23:41.704Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T19:23:41.734Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T19:24:36.593Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T19:24:36.626Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T19:24:55.515Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T19:24:55.545Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T19:25:21.736Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T19:25:21.774Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T19:26:11.853Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T19:26:11.883Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T19:27:57.803Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T19:27:57.831Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T19:29:13.415Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T19:29:13.446Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T19:35:26.772Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T19:35:26.813Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T19:37:31.006Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T19:37:31.061Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T19:38:24.458Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T19:38:24.489Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T19:41:21.059Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T19:41:21.087Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T19:41:36.831Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T19:41:36.860Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T19:45:52.814Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T19:45:52.844Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T19:46:02.298Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T19:46:02.328Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T19:46:10.728Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T19:46:10.770Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T19:46:47.772Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T19:46:47.817Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:03:34.799Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:03:34.838Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:04:11.793Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:04:11.814Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:05:40.855Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:05:40.884Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:10:27.345Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:10:27.374Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:10:53.431Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:10:53.501Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:12:50.371Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:12:50.398Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:15:20.472Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:15:20.499Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:20:10.259Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:20:10.287Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:22:25.681Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:22:25.711Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:23:26.783Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:23:26.814Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:26:16.057Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:26:16.085Z"}
+{"level":"error","message":"GET 500 outletsJoin is not defined","timestamp":"2015-09-11T20:26:17.710Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:26:37.721Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:26:37.748Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:27:32.191Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:27:32.222Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:27:54.258Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:27:54.288Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:28:08.980Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:28:09.007Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:28:56.393Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:28:56.421Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:30:00.846Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:30:00.873Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:30:20.081Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:30:20.109Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:30:46.434Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:30:46.462Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:31:21.042Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:31:21.071Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:32:06.802Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:32:06.830Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:33:54.227Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:33:54.255Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:35:15.903Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:35:15.931Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:37:20.530Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:37:20.558Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:38:56.592Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:38:56.621Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:39:16.998Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:39:17.027Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:39:43.354Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:39:43.382Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:41:48.818Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:41:48.845Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:42:35.765Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:42:35.793Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:45:00.019Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:45:00.048Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:45:21.554Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:45:21.582Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:46:41.958Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:46:41.987Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:47:30.369Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:47:30.397Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:47:45.609Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:47:45.637Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:48:54.100Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:48:54.133Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:49:36.201Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:49:36.231Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:50:11.263Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:50:11.292Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:50:37.251Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:50:37.280Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:51:37.071Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:51:37.101Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:53:05.448Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:53:05.487Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:53:37.225Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:53:37.251Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:55:01.051Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:55:01.079Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-11T20:55:26.308Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-11T20:55:26.335Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T05:19:07.691Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T05:19:07.719Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T05:22:17.704Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T05:22:17.731Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T05:26:46.570Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T05:26:46.604Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T05:31:05.932Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T05:31:05.981Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T05:37:59.266Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T05:37:59.293Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T05:38:45.146Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T05:38:45.199Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T05:39:41.491Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T05:39:41.519Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T05:40:11.912Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T05:40:11.939Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T05:40:32.829Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T05:40:32.857Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T05:55:14.653Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T05:55:14.688Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T05:56:11.257Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T05:56:11.285Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T05:57:57.770Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T05:57:57.797Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T05:58:31.826Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T05:58:31.852Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T05:58:52.696Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T05:58:52.725Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T05:59:25.367Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T05:59:25.395Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T06:01:10.781Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T06:01:10.813Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T06:01:59.568Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T06:01:59.596Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T06:03:08.041Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T06:03:08.068Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T06:04:44.741Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T06:04:44.768Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T06:06:42.231Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T06:06:42.259Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T06:08:19.256Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T06:08:19.283Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T06:18:17.220Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T06:18:17.273Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T06:18:49.634Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T06:18:49.661Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T06:20:47.721Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T06:20:47.752Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T06:21:19.053Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T06:21:19.104Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T06:35:21.747Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T06:35:21.776Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T06:35:57.333Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T06:35:57.360Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T06:37:31.587Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T06:37:31.614Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T06:55:56.807Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T06:55:56.865Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T06:56:41.928Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T06:56:41.955Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T06:57:43.660Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T06:57:43.689Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T06:58:00.820Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T06:58:00.848Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T06:59:03.946Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T06:59:03.973Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T06:59:37.083Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T06:59:37.110Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T07:00:07.404Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T07:00:07.432Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T19:12:55.794Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T19:12:55.839Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T19:22:22.688Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T19:22:22.798Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T19:34:00.441Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T19:34:00.468Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T19:34:35.886Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T19:34:35.913Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T19:35:23.604Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T19:35:23.635Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T20:39:53.677Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T20:39:53.706Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T21:07:04.130Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T21:07:04.167Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T21:34:53.306Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T21:34:53.364Z"}
+{"level":"error","message":"GET 500 no connection available for operation","timestamp":"2015-09-12T21:35:54.250Z"}
+{"level":"error","message":"GET 500 no connection available for operation","timestamp":"2015-09-12T21:35:54.252Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T21:36:28.977Z"}
+{"level":"error","message":"Connection error: connect ECONNREFUSED","timestamp":"2015-09-12T21:36:28.990Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T21:37:51.324Z"}
+{"level":"error","message":"Connection error: connect ECONNREFUSED","timestamp":"2015-09-12T21:37:51.337Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T21:41:42.275Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T21:41:42.303Z"}
+{"level":"error","message":"GET 500 no connection available for operation","timestamp":"2015-09-12T21:42:21.072Z"}
+{"level":"error","message":"GET 500 no connection available for operation","timestamp":"2015-09-12T21:42:21.075Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-12T21:45:41.793Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-12T21:45:41.821Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-13T06:14:40.761Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-13T06:14:40.804Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-13T07:19:14.211Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-13T07:19:14.263Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-13T07:56:48.786Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-13T07:56:48.814Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-13T08:32:18.548Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-13T08:32:18.575Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-13T08:32:36.489Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-13T08:32:36.517Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-13T08:41:48.556Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-13T08:41:48.608Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-13T08:43:14.657Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-13T08:43:14.685Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-13T08:46:08.778Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-13T08:46:08.807Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-13T08:47:30.406Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-13T08:47:30.434Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-13T08:47:52.231Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-13T08:47:52.278Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-13T08:48:16.293Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-13T08:48:16.339Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-13T08:48:55.928Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-13T08:48:55.955Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-13T08:52:29.522Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-13T08:52:29.554Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-13T09:00:37.492Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-13T09:00:37.521Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-13T09:01:06.520Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-13T09:01:06.551Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-13T09:04:00.708Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-13T09:04:00.737Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-13T09:07:10.718Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-13T09:07:10.762Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-13T09:07:45.545Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-13T09:07:45.614Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-13T09:30:44.787Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-13T09:30:44.818Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-13T09:31:12.012Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-13T09:31:12.039Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-13T09:32:16.673Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-13T09:32:16.701Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-13T09:32:45.273Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-13T09:32:45.309Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-13T10:01:01.309Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-13T10:01:01.337Z"}
+{"level":"error","message":"GET 500 perPage is not defined","timestamp":"2015-09-13T10:01:03.045Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-13T10:01:27.073Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-13T10:01:27.101Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-14T18:23:28.407Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-14T18:23:28.451Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T17:28:46.113Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T17:28:46.697Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T19:21:49.883Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T19:21:49.980Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T19:22:15.907Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T19:22:15.936Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T19:45:13.265Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T19:45:13.297Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T19:48:23.029Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T19:48:23.071Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T19:51:38.780Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T19:51:38.811Z"}
+{"level":"error","message":"GET 500 Object #<Promise> has no method 'exec'","timestamp":"2015-09-15T19:51:42.218Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T19:54:20.092Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T19:54:20.159Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T19:54:41.837Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T19:54:41.865Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T19:55:52.459Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T19:55:52.491Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:01:26.244Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:01:26.272Z"}
+{"level":"error","message":"GET 500 accountId is not defined","timestamp":"2015-09-15T20:01:32.596Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:01:46.165Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:01:46.193Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:02:52.544Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:02:52.571Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:04:28.928Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:04:28.964Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:05:35.794Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:05:35.823Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:06:56.874Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:06:56.904Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:07:04.086Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:07:04.115Z"}
+{"level":"error","message":"GET 500 productreviews is not defined","timestamp":"2015-09-15T20:07:13.633Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:07:37.825Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:07:37.852Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:08:22.306Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:08:22.335Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:11:21.479Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:11:21.511Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:13:06.630Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:13:06.658Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:16:37.333Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:16:37.360Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:17:55.017Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:17:55.049Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:18:36.830Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:18:36.857Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:20:42.973Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:20:43.004Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:27:01.121Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:27:01.148Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:27:35.497Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:27:35.532Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:30:40.158Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:30:40.186Z"}
+{"level":"error","message":"GET 500 ObjectId is not defined","timestamp":"2015-09-15T20:30:45.225Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:31:30.403Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:31:30.430Z"}
+{"level":"error","message":"GET 500 mongoose is not defined","timestamp":"2015-09-15T20:31:32.963Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:32:13.855Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:32:13.883Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:32:42.315Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:32:42.345Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:33:02.016Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:33:02.056Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:33:24.968Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:33:25.006Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:36:24.430Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:36:24.493Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:38:17.388Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:38:17.417Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:38:39.383Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:38:39.416Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:40:06.049Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:40:06.089Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:42:22.186Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:42:22.219Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:43:15.849Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:43:15.876Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:43:33.648Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:43:33.676Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:45:46.165Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:45:46.193Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:49:35.951Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:49:35.983Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:50:29.791Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:50:29.823Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:50:50.119Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:50:50.150Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:51:37.437Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:51:37.468Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:52:11.066Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:52:11.094Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:52:57.189Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:52:57.223Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:53:55.438Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:53:55.470Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:54:33.538Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:54:33.568Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:56:29.449Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:56:29.478Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:56:54.976Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:56:55.003Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:57:08.081Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:57:08.109Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:57:29.803Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:57:29.833Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:58:01.317Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:58:01.383Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:58:21.213Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:58:21.241Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T20:58:33.293Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T20:58:33.319Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:00:15.458Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:00:15.487Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:01:24.360Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:01:24.387Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:02:06.850Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:02:06.878Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:02:20.556Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:02:20.585Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:04:01.626Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:04:01.655Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:05:02.999Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:05:03.026Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:07:03.309Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:07:03.339Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:07:56.289Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:07:56.317Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:09:47.805Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:09:47.845Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:11:01.133Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:11:01.160Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:11:23.977Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:11:24.008Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:13:50.978Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:13:51.005Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:15:05.321Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:15:05.350Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:22:04.391Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:22:04.419Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:22:34.346Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:22:34.374Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:23:12.758Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:23:12.789Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:25:20.463Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:25:20.490Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:27:34.699Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:27:34.728Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:30:42.611Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:30:42.638Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:31:40.826Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:31:40.855Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:32:40.954Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:32:40.982Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:32:58.456Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:32:58.483Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:34:06.063Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:34:06.101Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:35:51.108Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:35:51.136Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:36:06.469Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:36:06.498Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:38:04.015Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:38:04.044Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:39:34.742Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:39:34.773Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T21:40:09.527Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T21:40:09.555Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T22:01:22.129Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T22:01:22.157Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T22:01:42.418Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T22:01:42.445Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T22:03:14.470Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T22:03:14.497Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T22:03:53.889Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T22:03:53.918Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T22:04:04.145Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T22:04:04.172Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T22:05:58.610Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T22:05:58.638Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-15T22:33:08.448Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-15T22:33:08.475Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-16T08:31:24.953Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-16T08:31:25.008Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-16T18:28:28.623Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-16T18:28:28.665Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-18T17:10:43.600Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-18T17:10:43.642Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-18T17:45:28.219Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-18T17:45:28.259Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-18T18:07:46.723Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-18T18:07:46.769Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-18T19:40:20.402Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-18T19:40:21.331Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-19T15:17:21.231Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-19T15:17:21.275Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-19T21:17:05.083Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-19T21:17:05.160Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-19T21:56:31.020Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-19T21:56:31.239Z"}

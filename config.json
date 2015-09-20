@@ -1,0 +1,39 @@
+{
+    "port": 1337,
+    "security": {
+        "tokenLife" : 31104000
+    },
+    "mongoose": {
+        "uri": "mongodb://localhost:27017/dianterin",
+        "options": {
+        	"db": { "native_parser": true },
+			"server": { "poolSize": 5 },
+			"user": "",
+			"pass": ""
+        }
+    },
+    
+    "default": {
+        "api": {
+            "version" : "v1"
+        },
+        "user": {
+            "username": "arthaprihardana@gmail.com",
+            "password": "arthaprihardana",
+            "fullname": "Artha Prihardana",
+            "email": "arthaprihardana@gmail.com",
+            "gender": "L",
+            "birthdate": "1987-04-18",
+            "phone": "087775298468",
+            "age": "28",
+            "city": "Tangerang Selatan",
+            "occupation": "Developer",
+            "register_via": "email"
+        },
+        "client": {
+            "name": "Vrinda API v1",
+            "clientId": "Dianterin.com",
+            "clientSecret": "d14n73r1Nd0nk"
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "PolycoreNodeAPI",
+    "version": "1.0.0",
+    "author": "Janitra Panji",
+    "description": "Polycore RESTful API with Node.js and passport",
+    "private": true,
+    "scripts": {
+        "start": "node ./bin/www"
+    },
+    "dependencies": {
+        "body-parser": "latest",
+        "cookie-parser": "latest",
+        "debug": "latest",
+        "express": "latest",
+        "faker": "latest",
+        "method-override": "latest",
+        "mongoose": "latest",
+        "nconf": "latest",
+        "oauth2orize": "latest",
+        "passport": "latest",
+        "passport-http": "latest",
+        "passport-http-bearer": "latest",
+        "passport-oauth2-client-password": "latest",
+        "winston": "latest",
+        "mssql": "latest"
+    },
+    "jshintConfig":{
+        "curly": true,
+        "eqeqeq": true,
+        "immed": true,
+        "latedef": false,
+        "newcap": false,
+        "noarg": true,
+        "sub": true,
+        "undef": true,
+        "boss": true,
+        "eqnull": true,
+        "strict": false,
+        "scripturl": true,
+        "evil": true,
+        "globals" : {
+            "location": true,
+            "printStackTrace": false
+        },
+        "browser" : true,
+        "node": true
+    },
+    "license": "MIT"
+}
