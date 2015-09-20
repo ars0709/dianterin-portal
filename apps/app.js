@@ -14,7 +14,7 @@ var api             = require('./routes/api');
 var users           = require('./routes/users');
 var app             = express();
 
-// Code Tit
+// Code Titit
 app.use(function(req, res, next){
     res.header('Access-Control-Allow-Origin', '*');
     res.header('Access-Control-Allow-Methods', 'GET, PUT, POST, DELETE');
