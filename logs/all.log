@@ -610,3 +610,57 @@
 {"level":"info","message":"Connected to DB!","timestamp":"2015-09-19T21:17:05.160Z"}
 {"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-19T21:56:31.020Z"}
 {"level":"info","message":"Connected to DB!","timestamp":"2015-09-19T21:56:31.239Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-09-22T18:25:39.093Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T18:25:39.284Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T18:52:57.097Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T18:53:23.212Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T18:56:01.586Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T18:56:24.899Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T18:56:41.670Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T18:57:04.865Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T19:02:42.443Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T19:10:44.469Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T19:12:26.626Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T19:13:10.852Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T19:20:11.218Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T19:20:36.450Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T19:34:29.777Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T19:37:22.427Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T19:38:17.731Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T19:38:49.728Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T19:43:56.745Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T19:45:14.498Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T20:14:23.250Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T20:15:03.675Z"}
+{"level":"error","message":"GET 500 Cannot call method 'on' of undefined","timestamp":"2015-09-22T20:15:11.140Z"}
+{"level":"error","message":"GET 500 Cannot call method 'on' of undefined","timestamp":"2015-09-22T20:15:37.235Z"}
+{"level":"error","message":"GET 500 Cannot call method 'on' of undefined","timestamp":"2015-09-22T20:15:42.317Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T20:15:46.836Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T20:25:47.814Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T20:27:10.200Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T20:30:14.947Z"}
+{"level":"error","message":"GET 500 Cannot call method 'emit' of undefined","timestamp":"2015-09-22T20:30:22.894Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T20:30:52.555Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T20:32:21.338Z"}
+{"level":"error","message":"GET 500 Cannot call method 'emit' of undefined","timestamp":"2015-09-22T20:32:27.896Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T20:37:04.103Z"}
+{"level":"error","message":"GET 500 Cannot call method 'emit' of undefined","timestamp":"2015-09-22T20:37:14.168Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T20:44:05.851Z"}
+{"level":"error","message":"GET 500 Cannot call method 'emit' of undefined","timestamp":"2015-09-22T20:44:14.791Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T20:45:29.489Z"}
+{"level":"error","message":"GET 500 Cannot read property 'socket' of undefined","timestamp":"2015-09-22T20:45:41.520Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T20:46:06.754Z"}
+{"level":"error","message":"GET 500 Cannot read property 'socket' of undefined","timestamp":"2015-09-22T20:46:11.745Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T20:46:42.969Z"}
+{"level":"error","message":"GET 500 Cannot read property 'socket' of undefined","timestamp":"2015-09-22T20:46:48.222Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T20:48:26.383Z"}
+{"level":"error","message":"GET 500 Cannot read property 'socket' of undefined","timestamp":"2015-09-22T20:48:31.965Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T20:48:52.997Z"}
+{"level":"error","message":"GET 500 Cannot call method 'emit' of undefined","timestamp":"2015-09-22T20:48:58.537Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T20:54:52.242Z"}
+{"level":"error","message":"GET 500 Cannot call method 'emit' of undefined","timestamp":"2015-09-22T20:55:01.466Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T20:57:42.755Z"}
+{"level":"error","message":"GET 500 Cannot call method 'emit' of undefined","timestamp":"2015-09-22T20:57:57.708Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T21:02:06.703Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T21:05:23.276Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-09-22T21:06:01.679Z"}

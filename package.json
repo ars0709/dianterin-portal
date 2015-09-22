@@ -22,7 +22,7 @@
         "passport-http-bearer": "latest",
         "passport-oauth2-client-password": "latest",
         "winston": "latest",
-        "mssql": "latest"
+        "socket.io": "latest"
     },
     "jshintConfig":{
         "curly": true,

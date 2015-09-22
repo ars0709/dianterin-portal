@@ -14,6 +14,17 @@ var api             = require('./routes/api');
 var users           = require('./routes/users');
 var app             = express();
 
+var socketio        = require('socket.io');
+var io              = socketio();
+
+app.set('port', config.get('port') || 3000);
+
+// Make io accessible to our router
+app.use(function(req,res,next){
+    req.io = io;
+    next();
+});
+
 // Code Titit
 app.use(function(req, res, next){
     res.header('Access-Control-Allow-Origin', '*');
@@ -59,5 +70,7 @@ app.use(function(err, req, res, next){
     });
     return;
 });
+
+io.listen(app.listen(app.get('port')));
 
 module.exports = app;

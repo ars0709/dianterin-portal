@@ -113,6 +113,10 @@ router.get('/product/id/:id', passport.authenticate('bearer', { session: false }
                         { $sort: { "_id": -1 } },
                     ],
                     function(err,result){
+                        req.io.sockets.emit('product', {
+                            'message' : 'Bagian Detail Product ' + id
+                        });
+
                         res.json({
                             products: products,
                             reviewsFetchAll: resultAll,
@@ -124,7 +128,7 @@ router.get('/product/id/:id', passport.authenticate('bearer', { session: false }
         );
         
     });
-
+    
 });
 
 module.exports = router;
