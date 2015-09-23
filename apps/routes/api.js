@@ -131,4 +131,19 @@ router.get('/product/id/:id', passport.authenticate('bearer', { session: false }
     
 });
 
+router.get('/user/:username', passport.authenticate('bearer', { session: false }), function (req, res) {
+    var username = req.params.username;
+    User.findOne({ username: username }).exec(function(err, user) {
+        if (err) {
+            data.push({
+                "valid" : false,
+                "message" : err
+            });
+            res.json(data);
+        }
+
+        res.json(user);
+    });
+});
+
 module.exports = router;

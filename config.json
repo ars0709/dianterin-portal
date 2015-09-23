@@ -18,15 +18,15 @@
             "version" : "v1"
         },
         "user": {
-            "username": "arthaprihardana@gmail.com",
-            "password": "arthaprihardana",
-            "fullname": "Artha Prihardana",
-            "email": "arthaprihardana@gmail.com",
+            "username": "jhondoe@gmail.com",
+            "password": "jhondoe",
+            "fullname": "Jhon Doe",
+            "email": "jhondoe@gmail.com",
             "gender": "L",
             "birthdate": "1987-04-18",
-            "phone": "087775298468",
+            "phone": "08187187777",
             "age": "28",
-            "city": "Tangerang Selatan",
+            "city": "Jakarta Selatan",
             "occupation": "Developer",
             "register_via": "email"
         },

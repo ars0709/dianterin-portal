@@ -36,7 +36,8 @@ var User = new Schema({
 	created: {
 		type: Date,
 		default: Date.now
-	}
+	},
+	image: String
 });
 
 User.methods.encryptPassword = function(password) {
