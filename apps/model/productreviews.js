@@ -9,7 +9,7 @@ var ProductReviews = new Schema({
 		type: String
 	},
 	reviewStar: {
-		type: String
+		type: Number
 	},
 	reviewDateCreated: {
         type: Date,
@@ -19,8 +19,12 @@ var ProductReviews = new Schema({
 		type: Schema.Types.ObjectId, 
 		ref: 'Products',	
 		required: true
+	},
+	userId: {
+		type: Schema.Types.ObjectId, 
+		ref: 'User',	
+		required: true
 	}
-	
 });
 
 module.exports = mongoose.model('ProductReviews', ProductReviews);
